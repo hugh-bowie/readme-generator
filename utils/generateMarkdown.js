@@ -1,7 +1,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 const renderLicenseBadge = (license) => {
-  let licenseBadge;
+  const licenseBadge;
   switch (license) {
     case "APACHE_2.0":
       licenseBadge = 'https://img.shields.io/badge/License-Apache%202.0-blue.svg';
@@ -23,7 +23,7 @@ const renderLicenseBadge = (license) => {
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 const renderLicenseLink = (license) => {
-  let licenseLink;
+  const licenseLink;
   switch (license) {
     case "APACHE_2.0":
       licenseLink = 'https://www.apache.org/licenses/LICENSE-2.0';
