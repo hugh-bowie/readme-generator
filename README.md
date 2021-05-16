@@ -30,21 +30,21 @@
 
 
   ## Useage 
-
-
-  undefined
+  
+  To initialize the app from working directory type "node index.js".
+  Follow the Prompts and answer them with as much detail as possible for best results.
 
 
   ## Contribution
 
-
-  undefined
+  Pull Requsts are welcomed:
+  https://github.com/hugh-bowie/readme-generator/pulls
 
 
   ## Testing
 
 
-  test.js
+  Self fulfilling if done correctly.
 
 
   ## License
