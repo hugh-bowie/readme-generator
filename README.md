@@ -10,7 +10,7 @@
 
 ## ✨ Demo
 <p align="center">
-  <img width="700" align="center" src='https://github.com/hugh-bowie/readme-generator/blob/main/assets/readme-generator-walkthrough.mp4' alt='demo'/>
+  <img width="700" align="center" src='https://github.com/hugh-bowie/readme-generator/blob/main/assets/readme-demo%20(1).gif' alt='demo'/>
   </p>
   
  
