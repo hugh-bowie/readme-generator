@@ -25,7 +25,7 @@
  
 
 
-  ## Description 
+  ## Description
 
 
   The User answers short list of questions, and based on those values a Professional README.md File is created. 
