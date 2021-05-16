@@ -1,10 +1,11 @@
 
 
   # Professional README Generator
- <pre>
+
   ![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)
+  
   MIT license https://opensource.org/licenses/MIT
-</pre>
+
 
 ## Demo
 <p align="center">
