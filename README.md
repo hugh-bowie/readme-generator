@@ -27,11 +27,11 @@
 
   ## Installation
   
-  
+  <code>
   <p>git clone https://github.com/hugh-bowie/readme-generator.git </p>
   <p>npm init;</p>
   <p>npm install inquirer</p>
-
+  </code>
 
   ## Useage 
   
