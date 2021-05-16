@@ -27,9 +27,9 @@
 
   ## Installation
 <p> 
-  git clone https://github.com/hugh-bowie/readme-generator.git 
-  npm init; npm install inquirer
-</p>
+  git clone https://github.com/hugh-bowie/readme-generator.git </p><br>
+  npm init;<br> npm install inquirer
+
 
   ## Useage 
   
