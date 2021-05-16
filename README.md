@@ -1,14 +1,19 @@
 
 
   # Professional README Generator
-<p align="center">
-  <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
-</p>
-
-## ✨ Demo
-
+ 
   ![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)
   MIT license https://opensource.org/licenses/MIT
+  
+  <img width="700" align="center" src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" alt="demo"/>
+
+
+## ✨ Demo
+<p align="center">
+  <img width="700" align="center" src='https://github.com/hugh-bowie/readme-generator/blob/main/assets/readme-generator-walkthrough.mp4' alt='demo'/>
+  </p>
+  
+ 
   
   ## Table of Contents:
 
