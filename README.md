@@ -26,14 +26,14 @@
 
 
   ## Installation
-  
+  <pre>
   <code>git clone https://github.com/hugh-bowie/readme-generator.git
   
   npm init;
   
   npm install inquirer
   </code>
-
+</pre>
   ## Useage 
   
   To initialize the app from working directory type "node index.js".
