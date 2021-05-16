@@ -5,7 +5,7 @@
   ![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)
   MIT license https://opensource.org/licenses/MIT
   
-  "https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" 
+  Https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue 
 
 
 ## ✨ Demo
