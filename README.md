@@ -26,10 +26,10 @@
 
 
   ## Installation
-
-  From Command Line: git clone 
+<p> 
+  git clone https://github.com/hugh-bowie/readme-generator.git 
   npm init; npm install inquirer
-
+</p>
 
   ## Useage 
   
