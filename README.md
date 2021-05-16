@@ -26,8 +26,11 @@
 
 
   ## Installation
-<p>git clone https://github.com/hugh-bowie/readme-generator.git </p><br>
-  <p>npm init;</p><br><p>npm install inquirer</p>
+  
+  
+  <p>git clone https://github.com/hugh-bowie/readme-generator.git </p>
+  <p>npm init;</p>
+  <p>npm install inquirer</p>
 
 
   ## Useage 
