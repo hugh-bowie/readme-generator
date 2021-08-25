@@ -1,76 +1,92 @@
+<h1 align="center">Team Profile Generator 🚀</h1>
+<h2 align="center">Object-Oriented Programming (OOP) and Test-Driven Development (TDD)</h2>
 
-
-  # Professional README Generator
-
-  ![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)
-  
-  MIT license https://opensource.org/licenses/MIT
-
-
-## Demo
 <p align="center">
-  <img width="700" align="center" src='https://github.com/hugh-bowie/readme-generator/blob/main/assets/readme-demo%20(1).gif' alt='demo'/>
-  </p>
-  
- 
-  
-  ## Table of Contents:
+    <img src="https://img.shields.io/github/repo-size/hugh-bowie/team-profile-generator" />
+    <img src="https://img.shields.io/github/languages/top/hugh-bowie/team-profile-generator"  />
+    <img src="https://img.shields.io/github/issues/hugh-bowie/team-profile-generator" />
+    <img src="https://img.shields.io/github/last-commit/hugh-bowie/team-profile-generator" >
 
-  1. [Professional README Generator](#Professional README Generator)
-  2. [Description](###description)
-  3. [Installation](###installation) 
-  4. [Usage](###usage) 
-  5. [Contributing](###contributing)
-  6. [Tests](###tests)
- 
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-yellow"  />
+    <img src="https://img.shields.io/badge/jQuery-blue" />
+    <img src="https://img.shields.io/badge/Node-33cc33" />
+    <img src="https://img.shields.io/badge/Inquirer-99ccff"  />
+    <img src="https://img.shields.io/badge/Jest-99ff99"  />
 
+</p>
 
-  ## Description
+## 📓 Description
 
+A Node.js command-line application that takes in information about employees and generates an HTML webpage.
 
-  The User answers short list of questions, and based on those values a Professional README.md File is created. 
+## 🎬 Video Walkthrough
 
+![team-profile-generator](./assets/walkthrough.gif)
 
-  ## Installation
-  <pre>
-  <code>git clone https://github.com/hugh-bowie/readme-generator.git
-  npm init;
-  npm install inquirer</code>
-  </pre>
-  
-  ## Useage 
-  
-  To initialize the app from working directory type "node index.js".
-  Follow the Prompts and answer them with as much detail as possible for best results.
+## 🃏 User Story
 
+```
+AS A manager
+I WANT to generate a webpage that displays my team's basic info
+SO THAT I have quick access to their emails and GitHub profiles
+```
 
-  ## Contribution
+## ✔️ Accpetance Criteria
 
-  Pull Requsts are welcomed:
-  https://github.com/hugh-bowie/readme-generator/pulls
+```
+GIVEN a command-line application that accepts user input
+WHEN I am prompted for my team members and their information
+THEN an HTML file is generated that displays a nicely formatted team roster based on user input
+WHEN I click on an email address in the HTML
+THEN my default email program opens and populates the TO field of the email with the address
+WHEN I click on the GitHub username
+THEN that GitHub profile opens in a new tab
+WHEN I start the application
+THEN I am prompted to enter the team manager’s name, employee ID, email address, and office number
+WHEN I enter the team manager’s name, employee ID, email address, and office number
+THEN I am presented with a menu with the option to add an engineer or an intern or to finish building my team
+WHEN I select the engineer option
+THEN I am prompted to enter the engineer’s name, ID, email, and GitHub username, and I am taken back to the menu
+WHEN I select the intern option
+THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
+WHEN I decide to finish building my team
+THEN I exit the application, and the HTML is generated
+```
 
+## 📋 Table of Contents
 
-  ## Testing
+- [Description](#description)
+- [Video Walkthrough](#Video-Walkthrough)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [Questions](#questions)
 
+## 🛠 Installation
 
-  Self fulfilling if done correctly.
+`npm init` <br> `npm install inquirer email-validator jest`
 
+## ▶️ Useage
 
-  ## License
-  
-  
-  This app is protected under the MIT opensource license.
-  https://opensource.org/licenses/MIT
+`npm run start`
 
+## 🎪 Testing
 
-  ## Questions
+`npm install jest --save-dev`
 
+Tests included for all four classes: `Employee Manager Engineer and Intern`
 
-  If you wish to contribute to this application please send a request to me at: hughbowie@me.com.
-  Or you can also send an issue via github to me at: [Git](github.com/hugh-bowie/)
+## 🍻 Contributing
 
+:octocat: [Hugh Bowie](https://github.com/hugh-bowie)
 
-  ## Link to full demo mp4
-  
-  
-  https://drive.google.com/file/d/18ICYiO1gUjjZOd1Hj5MnK38t9Hj4_ReM/view?usp=sharing
+## ⁉️ Questions
+
+Contact me with any questions:
+[hughbowie@me.com](mailto:hughbowie@me.com)<br />[My GitHub](https://github.com/hugh-bowie)<br />
